@@ -8,4 +8,5 @@ const app = (0, express_1.default)();
 const PORT = 7000;
 app.listen(PORT, () => {
     console.log('Hi');
+    console.log();
 });
